@@ -1,0 +1,59 @@
+<component name="libraryTable">
+  <library name="spec1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.validation.2.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jsonb.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jstl.1.2_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.management.j2ee.1.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.interceptor.1.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.persistence.2.2_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.annotation.1.3_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.mail.1.6_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jsp.tld.2.2_1.2.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jms.2.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.connector.1.6_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.annotation.1.2_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.mail.1.5_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.ejb.3.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.websocket.1.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.el.2.2_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.connector.1.7_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.concurrent.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.annotation.1.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jaspic.1.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.cdi.1.2_1.2.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.websocket.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.security.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jsp.2.3_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.cdi.2.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.prereq.wsdl4j.api_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.el.3.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.activation.1.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jsf.2.3_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jaxrs.2.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.ejb.3.2_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jaxb.2.2_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.persistence.2.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jws.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jsonp.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.batch.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jsf.2.2_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.activity.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.wsdl4j.1.2_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.servlet.3.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.transaction.1.2_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jsonp.1.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.servlet.4.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jacc.1.5_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jaxws.2.2_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.transaction.1.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jaxrs.2.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.jsp.2.2_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.validation.1.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.servlet.3.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.interceptor.1.2_1.0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

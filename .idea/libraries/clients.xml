@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="clients">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/clients/restConnector.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/clients/ejbRemotePortable.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

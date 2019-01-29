@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.ibm.wsspi.thirdparty.equinox_1.0.23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/third-party/com.ibm.wsspi.thirdparty.equinox_1.0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

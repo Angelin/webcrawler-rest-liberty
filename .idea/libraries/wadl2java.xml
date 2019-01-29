@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wadl2java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/jaxrs/tools/wadl2java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

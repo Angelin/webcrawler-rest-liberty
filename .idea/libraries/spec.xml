@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="spec">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/spec/com.ibm.wsspi.org.osgi.service.metatype.annotations_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/spec/com.ibm.wsspi.org.osgi.service.log_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/spec/com.ibm.wsspi.org.osgi.service.component_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/spec/com.ibm.wsspi.org.osgi.service.coordinator_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/spec/com.ibm.wsspi.org.osgi.core_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/spec/com.ibm.wsspi.org.osgi.service.metatype_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/spec/com.ibm.wsspi.org.osgi.service.cm_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/spec/com.ibm.wsspi.org.osgi.service.component.annotations_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/spec/com.ibm.wsspi.org.osgi.namespace.service_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/spec/com.ibm.wsspi.org.osgi.service.event_1.0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

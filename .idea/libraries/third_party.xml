@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="third-party">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/third-party/com.ibm.websphere.appserver.thirdparty.eclipselink_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/third-party/com.ibm.websphere.appserver.thirdparty.cdi_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/third-party/com.ibm.websphere.appserver.thirdparty.mail-1.6_1.6.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/third-party/com.ibm.websphere.appserver.thirdparty.opentracing.0.31.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/third-party/com.ibm.websphere.appserver.thirdparty.mail_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/third-party/com.ibm.websphere.appserver.thirdparty.eclipselink.2.7_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/third-party/com.ibm.websphere.appserver.thirdparty.opentracing_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/third-party/com.ibm.websphere.appserver.thirdparty.cdi-2.0_1.0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

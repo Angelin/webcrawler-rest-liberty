@@ -1,0 +1,27 @@
+=====REST service with JAX-RS, JSON-P, and Open Liberty ======
+REST service with JAX-RS, JSON-P & open liberty that will expose sitemap of the domain
+
+mvn build
+/guide-rest-intro> mvn clean install
+
+start the liberty server
+/guide-rest-intro/start> mvn liberty:start
+
+stop the liberty server
+/guide-rest-intro/start> mvn liberty:start
+
+
+
+hit http://localhost:9082/LibertyProject/webcrawler/sitemap
+
+json output:
+{"0":"https://wiprodigital.com/xmlrpc.php","1":"https://wiprodigital.com/","2":"https://wiprodigital.com/xmlrpc
+.php?rsd","3":"https://wiprodigital.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwiprodigital.com%2F","4":"https://wiprodigital.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwiprodigital.com%2F&#038;format=xml"
+...
+"91":"https://wiprodigital.com/privacy-policy"}
+
+service logic file:
+webcrawler-rest-liberty/start/src/main/java/io/openliberty/guides/rest/SitemapResource.java
+
+unit test file:
+/webcrawler-rest-liberty/start/src/test/java/it/io/openliberty/guides/rest/EndpointTest.java

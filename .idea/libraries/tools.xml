@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tools">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/jaxws/tools/ws-wsimport.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/jaxws/tools/ws-wsgen.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

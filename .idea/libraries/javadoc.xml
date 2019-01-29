@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.javaeedd_1.3-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.jsp_1.0-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.jaspic_1.1-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.transaction_1.1-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.kernel.embeddable_1.1-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.threading_1.1-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.kernel.service_1.5-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.kernel.filemonitor_1.0-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.opentracing.1.2_1.0-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.classloading_1.4-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.wab.configure_1.0-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.artifact_1.2-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.httptransport_4.1-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.restHandler_2.0-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.containerServices_3.0-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.kernel.metatype_1.0-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.ssl_1.2-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.application_1.1-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.logging_1.1-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.opentracing_1.0-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.anno_1.1-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.federatedRepository_1.2-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.globalhandler_1.0-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.opentracing.1.1_1.0-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.servlet_2.3-javadoc.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

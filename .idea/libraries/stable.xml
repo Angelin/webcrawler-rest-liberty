@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="stable">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.rest.client.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.rest.client.1.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.health.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.jwt.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.metrics.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.metrics.1.1.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.opentracing.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.faulttolerance.1.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.opentracing.1.2_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.faulttolerance.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.config.1.2.1_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.openapi.1.0_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.config.1.3_1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.config.1.1_1.2.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.opentracing.1.1_1.0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

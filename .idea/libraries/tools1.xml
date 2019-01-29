@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="tools1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/tools/ws-serverSchemagen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/tools/ws-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/tools/ws-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/tools/ws-javaagent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/tools/ws-productutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/tools/ws-generateddlutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/tools/ws-webserverPluginutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/tools/ws-schemagen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/tools/ws-featurelist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/tools/ws-springbootutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/tools/ws-securityutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/start/target/liberty/wlp/bin/tools/ws-binarylogviewer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

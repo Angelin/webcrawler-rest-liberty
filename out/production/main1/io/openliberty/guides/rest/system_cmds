@@ -1,0 +1,2 @@
+list processs
+ps -ax

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LibertyProject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/start/target/LibertyProject.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
